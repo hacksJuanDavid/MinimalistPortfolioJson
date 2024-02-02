@@ -28,10 +28,13 @@ yarn build
 yarn preview
 ```
 
+## Based in JSON Resume
 Schema del JSON de CV:
 https://jsonresume.org/schema/
 
 Basado en el diseño de:
 https://github.com/BartoszJarocki/cv
+https://github.com/midudev/minimalist-portfolio-json/tree/main
 
+## Youy personalite CV
 Edita el archivo `cv.json` para crear tu propio Portafolio/CV imprimible.
