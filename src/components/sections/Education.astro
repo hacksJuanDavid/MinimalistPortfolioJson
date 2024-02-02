@@ -1,36 +1,47 @@
 ---
-import Section from "../Section.astro"
+import Section from "../Section.astro";
 
-import { education } from "@cv"
+import { education } from "@cv";
 ---
 
 <Section title="Educación">
   <ul>
     {
-      education.map(({ institution, startDate, endDate, area }) => {
-        const startYear = new Date(startDate).getFullYear()
-        const endYear =
-          endDate != null ? new Date(endDate).getFullYear() : "Actual"
-        const years = `${startYear} - ${endYear}`
+      education.map(
+        ({ institution, startDate, endDate, area, studyType, courses }) => {
+          const startYear = new Date(startDate).getFullYear();
+          const endYear =
+            endDate != null ? new Date(endDate).getFullYear() : "Actual";
+          const years = `${startYear} - ${endYear}`;
 
-        return (
-          <li>
-            <article>
-              <header>
-                <div>
-                  <h3>{institution}</h3>
-                </div>
+          return (
+            <li>
+              <article>
+                <header>
+                  <div>
+                    <h3>{institution}</h3>
+                  </div>
+                  <time>{years}</time>
+                </header>
 
-                <time>{years}</time>
-              </header>
-
-              <footer>
-                <p>{area}</p>
-              </footer>
-            </article>
-          </li>
-        )
-      })
+                <footer>
+                  <h5>{studyType}</h5>
+                  <p>{area}</p>
+                  <div>
+                    {courses.map((course) => {
+                      return (
+                        <li>
+                          <p>{course}</p>
+                        </li>
+                      );
+                    })}
+                  </div>
+                </footer>
+              </article>
+            </li>
+          );
+        }
+      )
     }
   </ul>
 </Section>
@@ -58,6 +69,19 @@ import { education } from "@cv"
     color: #555;
     font-size: 0.85rem;
     min-width: 102px;
+  }
+
+  footer p {
+    color: #000000;
+    font-size: 0.85rem;
+  }
+
+  footer h5 {
+    margin-top: 1rem;
+  }
+  footer div li p {
+    color: #555;
+    font-size: small;
   }
 
   @media (width <= 700px) {
