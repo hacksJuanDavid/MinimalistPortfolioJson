@@ -1,190 +1,347 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Juan David Jimemenez",
+    "label": "Full Stack Developer con más de 5 años de experiencia",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "josuacoty@gmail.com",
+    "phone": "+1 (201) 361-2656",
+    "url": "https://blogwebjuan.onrender.com/",
+    "summary": "+5 años de experiencia como Desarrollador Full Stack con diferentes propositos como WebApps, Mobile, Web3, BlockChain, AI, Backend, Frontend, en la participacion de la realizacion de proyectos a empresas como sus arquitecturas, gestion de mejores practicas a la hora del desarrollo, verzatilidad en la creacion de Apps, soluciones a problemas logicos y eficiencia.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "7100",
+      "city": "Cali",
+      "countryCode": "COL",
+      "region": "Colombia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "hacksJuanDavid",
+        "url": "https://linkedin.com/in/hacksJuanDavid"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "hacksJuanDavid",
+        "url": "https://x.com/hacksJuanDavid"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "hacksJuanDavid",
+        "url": "https://github.com/hacksJuanDavid"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "StorePcGaming",
+      "position": "Full Stack Developer",
+      "url": "https://store-pc-gaming-front-end.vercel.app/",
+      "startDate": "2024-01-12",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "Lidero la creacion del desarrollo web sobre el Backend como el Frontend de la Web App & Mobile, supervizo los ciclos de creacion y envio a Deploy de lo desarrollado, colaboro activamente en la realizacion de tareas de desarrollo. Aporto con feedback o sugerencias en el proyecto.",
+      "highlights": ["Started the company"]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Certiblock",
+      "position": "Junior Full Stack Developer",
+      "url": "https://certiblock.co/login?redirect=%2F",
+      "startDate": "2022-09-01",
+      "endDate": "2023-12-01",
+      "summary": "Colabore en la creacion del Frontend de Certiblock como en la arquitectura y la toma de desicion de que tecnologia era mejor para usarse en terminos de rendimiento escalabilidad y procesamiento, tambien aporte contribuciones en la creacion del Backend de certiblock aportando ideas como solucionando problemas de cloud y baches de procesamiento a escala mayores como en el rendimiento de la BlockChain y la compatibilidad con la carga para que fuese consumida esa Data por el Frontend, trabaje colaborativamente con equipos de diferentes paises como de Spain & Mexico en integrar el trabajo para obtener resultados para los usuarios.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de San Buenaventura",
+      "url": "https://usbcali.edu.co/",
+      "area": "Ingeniero de Software",
+      "studyType": "Educacion universitaria profesional",
+      "startDate": "2019-12-01",
+      "endDate": null,
+      "score": "4.9",
+      "courses": ["Architecture & Design of Software"]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
+      "institution": "Platzi",
+      "url": "https://platzi.com/p/thenowrock/",
+      "area": "Ingeniero de Software",
+      "studyType": "Estudio en linea autonomo para el desarrollo de habilidades en el desarrollo de software y tecnologias emergentes.",
+      "startDate": "2021-12-01",
+      "endDate": null,
+      "score": "4.0",
+      "courses": [
+        "Curso Básico de Programación con C#",
+        "Curso de APIs con .NET",
+        "Curso de Backend con Node.js: API REST con Express.js",
+        "Curso de Backend con Node.js: Base de Datos con PostgreSQL",
+        "Curso de Backend con Rust: Bases de Datos, Controladores y Templates",
+        "Curso de Frontend Developer",
+        "Curso de Fundamentos de Entity Framework",
+        "Curso de Fundamentos de .NET",
+        "Curso de Fundamentos de Node.js",
+        "Curso de Fundamentos de Rust",
+        "Curso de Fundamentos de TypeScript",
+        "Curso de Fundamentos de Python",
+        "Curso de Introducción a MongoDB",
+        "Curso de Prework para Desarrollo de Aplicaciones Blockchain 2021",
+        "Curso de Rust: Fundamentos, Variables, Ciclos y Funciones",
+        "Curso Práctico de Frontend Developer",
+        "Curso Práctico de JavaScript"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "Microsoft",
+        "Servidor",
+        "API",
+        "MVC",
+        "Entity Framework",
+        "ASP.NET",
+        "Blazor",
+        "Razor",
+        ".NET"
       ]
     },
     {
       "name": "Node",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "Express",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "Node.js", "Servidor"]
+    },
+    {
+      "name": "Jest",
+      "level": "Novato",
+      "keywords": ["Desarrollo Web", "Backend", "Node.js", "Testing"]
     },
     {
       "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Novato",
+      "keywords": [
+        "Bases de Datos",
+        "NoSQL",
+        "Almacenamiento de Datos",
+        "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     },
     {
       "name": "Next.js",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "DaisyUI",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "TailwindCSS", "Componentes"]
+    },
+    {
+      "name": "Prisma",
+      "level": "Novato",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web",
+        "Backend",
+        "ORM",
+        "Base de Datos",
+        "Node.js"
       ]
+    },
+    {
+      "name": "Rust",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "Lenguaje de Programación",
+        "Seguridad",
+        "Velocidad"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "Lenguaje de Programación",
+        "Ciencia de Datos",
+        "Machine Learning",
+        "IA"
+      ]
+    },
+    {
+      "name": "Streamlit",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Python",
+        "Data Science"
+      ]
+    },
+    {
+      "name": "Golang",
+      "level": "Novato",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "Lenguaje de Programación",
+        "Velocidad",
+        "Seguridad"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "Contenedores",
+        "Infraestructura"
+      ]
+    },
+    {
+      "name": "Render",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Hosting", "Infraestructura"]
+    },
+    {
+      "name": "Vercel",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Hosting", "Infraestructura"]
+    },
+    {
+      "name": "Azure",
+      "level": "Novato",
+      "keywords": ["Desarrollo Web", "Backend", "Cloud", "Infraestructura"]
     }
   ],
   "languages": [
@@ -197,79 +354,121 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "StorePcGaming",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Tienda de computadoras para gamers con un catálogo de productos y un carrito de compras",
       "highlights": [
-        "Elige tu propia aventura",
+        "Tienda",
+        "Ionic",
+        "CSS",
+        "Typescript",
+        "React",
+        "NodeJs",
+        "ExpressJs",
+        "Prisma",
+        "PostgreSQL",
         "En desarrollo"
       ],
-      "url": "https://mars.codes"
+      "url": "https://store-pc-gaming-front-end.vercel.app/",
+      "github": null
     },
     {
-      "name": "AdventJS",
+      "name": "Certiblock",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Plataforma de certificación de documentos, imagenes, qr, etc, en la blockchain de polygon",
       "highlights": [
-        "+1 millón de visitas",
+        "+100 de visitas",
         "Multidioma",
-        "JavaScript & TypeScript"
+        "JavaScript & TypeScript",
+        "NextJs",
+        "NodeJs",
+        "AdonisJs",
+        "Api's",
+        "MariaDb",
+        "En desarrollo"
       ],
-      "url": "https://advent.js/dev"
+      "url": "https://certiblock.co/login?redirect=%2F",
+      "github": null
     },
     {
-      "name": "Codember",
+      "name": "BlogWebJuan",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Blog de prestacion de servicios de desarrollo web",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "+10 vistas",
+        "Rust",
+        "PostgreSQL",
+        "ActixWeb",
+        "WebAssembly",
+        "Template Engines",
+        "En desarrollo"
       ],
-      "url": "https://codember.dev"
+      "url": "https://blogwebjuan.onrender.com/",
+      "github": null
     },
     {
-      "name": "codi.link",
+      "name": "Core73",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Aplicación web para la enseñanza de métodos numéricos en la ingeniería y la ciencia, con calculadoras y manual de uso, graficacion de funciones y ecuaciones, etc.",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Matematicas",
+        "Ciencias de la computación",
+        "Ciencia de datos",
+        "Metodos numericos",
+        "Aprendizaje",
+        "Proyecto de universidad",
+        "Python",
+        "Streamlit",
+        "En producción"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://hacksjuandavid-metodos-numericos-main-sokht2.streamlit.app/"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "JugueteriaJJJ",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Aplicación web para la gestión de una juguetería, con inventario, busqueda de productos, Administracion de inventarios (CRUD).",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "Tienda",
+        "Proyecto de universidad",
+        "Python",
+        "Streamlit",
+        "MongoDB",
+        "Html5",
+        "CSS",
+        "En producción"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "https://hacksjuandavid-jugueteriajjj-app-0xbplf.streamlit.app/",
+      "github": null
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "name": "StudentsApiFastApi ",
+      "description": "Api creada para una conferencia de estudiantes de la universidad de San Buenaventura con el proposito de la enseñanza de FastApi y la creacion de una Api Rest con Python.",
       "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
+        "Api",
+        "Python",
+        "PyTest",
+        "Entorno de desarrollo",
+        "FastApi",
+        "MySql",
+        "Repositorio",
+        "Open Source"
       ],
-      "url": "https://miduconf.com"
+      "url": null,
+      "github": "https://github.com/hacksJuanDavid/StudentsApiFastApi"
     }
   ]
 }
