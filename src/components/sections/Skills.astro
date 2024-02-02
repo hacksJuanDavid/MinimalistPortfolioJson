@@ -1,15 +1,25 @@
 ---
-import Section from "../Section.astro"
+import Section from "../Section.astro";
 
-import { skills } from "@cv"
+import { skills } from "@cv";
 ---
 
 <Section title="Habilidades">
   <ul>
     {
-      skills.map(({ name }) => (
+      skills.map(({ name, level, keywords }) => (
         <li>
-          <span>{name}</span>
+          <article>
+            <header>
+              <h3>{name}</h3>
+              <p>{level}</p>
+            </header>
+            <ul>
+              {keywords.map((keyword) => (
+                <li>{keyword}</li>
+              ))}
+            </ul>
+          </article>
         </li>
       ))
     }
@@ -17,18 +27,57 @@ import { skills } from "@cv"
 </Section>
 
 <style>
-  ul {
-    display: inline-flex;
-    gap: 8px;
-    flex-wrap: wrap;
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0.5rem;
   }
 
-  li {
-    border-radius: 6px;
-    background: #eee;
-    color: black;
-    font-size: 0.8rem;
-    font-weight: 500;
-    padding: 0.2rem 0.6rem;
+  header p {
+    color: rgb(0, 188, 47);
   }
+
+  article {
+    border-radius: 8px;
+    border: 1px solid #f2f2f2;
+    gap: 16px;
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    height: 100%;
+  }
+
+  article ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px; /* Ajusta el espacio entre los elementos */
+    color: #453f3f;
+    padding: 1rem;
+  }
+
+  h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0;
+  }
+
+  ul {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-inline: -16px;
+  }
+
+  ul li {
+    margin-bottom: 0.5rem;
+  }
+
+  /* Mobile Media querie*/
+  @media (max-width: 768px) {
+    ul {
+      grid-template-columns: 1fr;
+    }
+  }
+
 </style>
