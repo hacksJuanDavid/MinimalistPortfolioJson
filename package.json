@@ -2,6 +2,8 @@
   "name": "minimalist-portfolio-json",
   "type": "module",
   "version": "0.0.1",
+  "description": "A minimalist portfolio site using Astro and JSON",
+  "license": "MIT",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
