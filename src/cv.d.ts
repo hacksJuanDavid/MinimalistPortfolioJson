@@ -47,6 +47,7 @@ interface Work {
   endDate: DateStr | null
   summary: string
   highlights: Highlight
+  technologies: Array<string>
 }
 
 type DateStr = `${string}-${string}-${string}`
@@ -64,6 +65,7 @@ interface Volunter {
 interface Skills {
   name: string
   level: string
+  domain: number
   keywords: Array<string>
 }
 
