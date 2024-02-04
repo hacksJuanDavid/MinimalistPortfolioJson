@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Juan David Jimemenez",
+    "name": "Juan David Jiménez",
     "label": "Full Stack Developer con más de 5 años de experiencia",
     "image": "/me.webp",
     "email": "josuacoty@gmail.com",
     "phone": "+1 (201) 361-2656",
     "url": "https://blogwebjuan.onrender.com/",
-    "summary": "+5 años de experiencia como Desarrollador Full Stack con diferentes propositos como WebApps, Mobile, Web3, BlockChain, AI, Backend, Frontend, en la participacion de la realizacion de proyectos a empresas como sus arquitecturas, gestion de mejores practicas a la hora del desarrollo, verzatilidad en la creacion de Apps, soluciones a problemas logicos y eficiencia.",
+    "summary": "+5 años de experiencia como Desarrollador Full Stack con diferentes propósitos como Web Apps, Móviles, Web3, Blockchain, AI, Backend, Frontend, en la participación de la realización de proyectos a empresas como sus arquitecturas, gestión de mejores prácticas a la hora del desarrollo, versatilidad en la creación de Apps, soluciones a problemas lógicos y eficiencia.",
     "location": {
       "address": "",
       "postalCode": "7100",
@@ -39,8 +39,18 @@
       "url": "https://store-pc-gaming-front-end.vercel.app/",
       "startDate": "2024-01-12",
       "endDate": null,
-      "summary": "Lidero la creacion del desarrollo web sobre el Backend como el Frontend de la Web App & Mobile, supervizo los ciclos de creacion y envio a Deploy de lo desarrollado, colaboro activamente en la realizacion de tareas de desarrollo. Aporto con feedback o sugerencias en el proyecto.",
-      "highlights": ["Started the company"]
+      "summary": "Lidero la creación del desarrollo web sobre el Backend como el Frontend de la Web App & Móvil, supervisó los ciclos de creación y envió a Deploy de lo desarrollado, colaboro activamente en la realización de tareas de desarrollo. Aporto con feedback o sugerencias en el proyecto.",
+      "highlights": ["Started the company"],
+      "technologies": [
+        "Ionic",
+        "CSS",
+        "Typescript",
+        "React",
+        "NodeJs",
+        "ExpressJs",
+        "Prisma",
+        "PostgreSQL"
+      ]
     },
     {
       "name": "Certiblock",
@@ -48,8 +58,22 @@
       "url": "https://certiblock.co/login?redirect=%2F",
       "startDate": "2022-09-01",
       "endDate": "2023-12-01",
-      "summary": "Colabore en la creacion del Frontend de Certiblock como en la arquitectura y la toma de desicion de que tecnologia era mejor para usarse en terminos de rendimiento escalabilidad y procesamiento, tambien aporte contribuciones en la creacion del Backend de certiblock aportando ideas como solucionando problemas de cloud y baches de procesamiento a escala mayores como en el rendimiento de la BlockChain y la compatibilidad con la carga para que fuese consumida esa Data por el Frontend, trabaje colaborativamente con equipos de diferentes paises como de Spain & Mexico en integrar el trabajo para obtener resultados para los usuarios.",
-      "highlights": ["Started the company"]
+      "summary": "Colabore en la creación del Frontend de Certiblock como en la arquitectura y la toma de decisión de que tecnología era mejor para usarse en términos de rendimiento, escalabilidad y procesamiento, también aporte contribuciones en la creación del Backend de certiblock aportando ideas como solucionando problemas de cloud y baches de procesamiento a escala mayores como en el rendimiento de la Blockchain y la compatibilidad con la carga para que fuese consumida esa Data por el Frontend, trabaje colaborativamente con equipos de diferentes países como de Spain & Mexico en integrar el trabajo para obtener resultados para los usuarios.",
+      "highlights": ["Started the company"],
+      "technologies": [
+        "TypeScript",
+        "NextJs",
+        "NodeJs",
+        "AdonisJs",
+        "Api's",
+        "MariaDb",
+        "Blockchain",
+        "Polygon",
+        "Web3",
+        "React",
+        "Tailwindcss",
+        "DaisyUI"
+      ]
     }
   ],
   "volunteer": [
@@ -68,7 +92,7 @@
       "institution": "Universidad de San Buenaventura",
       "url": "https://usbcali.edu.co/",
       "area": "Ingeniero de Software",
-      "studyType": "Educacion universitaria profesional",
+      "studyType": "Educación universitaria profesional",
       "startDate": "2019-12-01",
       "endDate": null,
       "score": "4.9",
@@ -78,7 +102,7 @@
       "institution": "Platzi",
       "url": "https://platzi.com/p/thenowrock/",
       "area": "Ingeniero de Software",
-      "studyType": "Estudio en linea autonomo para el desarrollo de habilidades en el desarrollo de software y tecnologias emergentes.",
+      "studyType": "Estudio en línea autónomo para el desarrollo de habilidades en el desarrollo de software y tecnologías emergentes.",
       "startDate": "2021-12-01",
       "endDate": null,
       "score": "4.0",
@@ -132,21 +156,25 @@
     {
       "name": "HTML",
       "level": "Master",
+      "domain": 100,
       "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
+      "domain": 100,
       "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
       "level": "Avanzado",
+      "domain": 70,
       "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
       "level": "Avanzado",
+      "domain": 70,
       "keywords": [
         "Desarrollo Web",
         "Frontend",
@@ -157,6 +185,7 @@
     {
       "name": "TypeScript",
       "level": "Avanzado",
+      "domain": 80,
       "keywords": [
         "Desarrollo Web",
         "Frontend",
@@ -167,6 +196,7 @@
     {
       "name": "C#",
       "level": "Avanzado",
+      "domain": 70,
       "keywords": [
         "Desarrollo Web",
         "Backend",
@@ -184,21 +214,25 @@
     {
       "name": "Node",
       "level": "Avanzado",
+      "domain": 65,
       "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
     {
       "name": "Express",
+      "domain": 60,
       "level": "Avanzado",
       "keywords": ["Desarrollo Web", "Backend", "Node.js", "Servidor"]
     },
     {
       "name": "Jest",
       "level": "Novato",
+      "domain": 45,
       "keywords": ["Desarrollo Web", "Backend", "Node.js", "Testing"]
     },
     {
       "name": "MySQL",
       "level": "Avanzado",
+      "domain": 75,
       "keywords": [
         "Bases de Datos",
         "SQL",
@@ -208,6 +242,7 @@
     },
     {
       "name": "PostgreSQL",
+      "domain": 75,
       "level": "Avanzado",
       "keywords": [
         "Bases de Datos",
@@ -219,6 +254,7 @@
     {
       "name": "MongoDB",
       "level": "Novato",
+      "domain": 50,
       "keywords": [
         "Bases de Datos",
         "NoSQL",
@@ -229,11 +265,13 @@
     {
       "name": "Git",
       "level": "Avanzado",
+      "domain": 80,
       "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
+      "domain": 75,
       "keywords": [
         "Control de Versiones",
         "Colaboración",
@@ -244,6 +282,7 @@
     {
       "name": "Next.js",
       "level": "Avanzado",
+      "domain": 80,
       "keywords": [
         "Desarrollo Web",
         "Frontend",
@@ -255,16 +294,19 @@
     {
       "name": "React",
       "level": "Avanzado",
+      "domain": 75,
       "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "DaisyUI",
       "level": "Avanzado",
+      "domain": 70,
       "keywords": ["Desarrollo Web", "Frontend", "TailwindCSS", "Componentes"]
     },
     {
       "name": "Prisma",
       "level": "Novato",
+      "domain": 40,
       "keywords": [
         "Desarrollo Web",
         "Backend",
@@ -276,6 +318,7 @@
     {
       "name": "Rust",
       "level": "Avanzado",
+      "domain": 60,
       "keywords": [
         "Desarrollo Web",
         "Backend",
@@ -287,6 +330,7 @@
     {
       "name": "Python",
       "level": "Avanzado",
+      "domain": 70,
       "keywords": [
         "Desarrollo Web",
         "Backend",
@@ -299,6 +343,7 @@
     {
       "name": "Streamlit",
       "level": "Avanzado",
+      "domain": 60,
       "keywords": [
         "Desarrollo Web",
         "Frontend",
@@ -310,6 +355,7 @@
     {
       "name": "Golang",
       "level": "Novato",
+      "domain": 40,
       "keywords": [
         "Desarrollo Web",
         "Backend",
@@ -321,6 +367,7 @@
     {
       "name": "Docker",
       "level": "Avanzado",
+      "domain": 60,
       "keywords": [
         "Desarrollo Web",
         "Backend",
@@ -331,16 +378,19 @@
     {
       "name": "Render",
       "level": "Avanzado",
+      "domain": 65,
       "keywords": ["Desarrollo Web", "Frontend", "Hosting", "Infraestructura"]
     },
     {
       "name": "Vercel",
       "level": "Avanzado",
+      "domain": 60,
       "keywords": ["Desarrollo Web", "Frontend", "Hosting", "Infraestructura"]
     },
     {
       "name": "Azure",
       "level": "Novato",
+      "domain": 40,
       "keywords": ["Desarrollo Web", "Backend", "Cloud", "Infraestructura"]
     }
   ],
@@ -389,7 +439,7 @@
     {
       "name": "Certiblock",
       "isActive": true,
-      "description": "Plataforma de certificación de documentos, imagenes, qr, etc, en la blockchain de polygon",
+      "description": "Plataforma de certificación de documentos, imágenes, QR, NFTS en la blockchain de polygon",
       "highlights": [
         "+100 de visitas",
         "Multidioma",
@@ -407,7 +457,7 @@
     {
       "name": "BlogWebJuan",
       "isActive": true,
-      "description": "Blog de prestacion de servicios de desarrollo web",
+      "description": "Blog de prestación de servicios de desarrollo web",
       "highlights": [
         "+10 vistas",
         "Rust",
@@ -423,7 +473,7 @@
     {
       "name": "Core73",
       "isActive": true,
-      "description": "Aplicación web para la enseñanza de métodos numéricos en la ingeniería y la ciencia, con calculadoras y manual de uso, graficacion de funciones y ecuaciones, etc.",
+      "description": "Aplicación web para la enseñanza de métodos numéricos en la ingeniería y la ciencia, con calculadoras y manual de uso, graficar funciones y ecuaciones, etc.",
       "highlights": [
         "Matematicas",
         "Ciencias de la computación",
@@ -440,7 +490,7 @@
     {
       "name": "JugueteriaJJJ",
       "isActive": true,
-      "description": "Aplicación web para la gestión de una juguetería, con inventario, busqueda de productos, Administracion de inventarios (CRUD).",
+      "description": "Aplicación web para la gestión de una juguetería, con inventario, búsqueda de productos, Administración de inventarios (CRUD).",
       "highlights": [
         "Tienda",
         "Proyecto de universidad",
@@ -456,7 +506,7 @@
     },
     {
       "name": "StudentsApiFastApi ",
-      "description": "Api creada para una conferencia de estudiantes de la universidad de San Buenaventura con el proposito de la enseñanza de FastApi y la creacion de una Api Rest con Python.",
+      "description": "Api creada para una conferencia de estudiantes de la universidad de San Buenaventura con el propósito de la enseñanza de FastApi y la creación de una Api Rest con Python",
       "highlights": [
         "Api",
         "Python",
