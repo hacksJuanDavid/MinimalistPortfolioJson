@@ -73,6 +73,54 @@
         "frontend/Daisyui",
         "authentication/Jwt"
       ]
+    },
+    {
+      "name": "Freelance",
+      "position": "Front-end Developer with React and PWA",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2024-07-01",
+      "summary": "Desarrollé y mantuve una variedad de aplicaciones web utilizando JavaScript, TypeScript y React, aplicando patrones de diseño basados en componentes y buenas prácticas en cada proyecto. Adquirí experiencia con frameworks y tecnologías modernas como VueJs, AstroJs, Next.js, Actix Web y Django. Además, desarrollé aplicaciones web progresivas (PWAs) y enfoques de diseño mobile-first para mejorar la experiencia del usuario. En cada proyecto, apliqué principios de escalabilidad, rendimiento y usabilidad, contribuyendo de forma efectiva a la entrega de productos de calidad.",
+      "highlights": [
+        "Desarrollé y mantuve aplicaciones web utilizando JavaScript, TypeScript y React."
+      ],
+      "technologies": [
+        "frontend/Reactjs",
+        "backend/Typescript",
+        "backend/Javascript",
+        "frontend/Nextjs",
+        "frontend/Vuejs",
+        "frontend/Astro",
+        "backend/Rust",
+        "frameworks/Django",
+        "frontend/Ionic"
+      ]
+    },
+    {
+      "name": "Freelance",
+      "position": "Back-end Developer with C# and .NET Framework",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-01",
+      "summary": "Desarrollé y mantuve diversas soluciones de backend utilizando C# y .NET, aplicando principios de arquitectura limpia, APIs REST y microservicios para crear aplicaciones escalables y eficientes. Me especialicé en la migración de aplicaciones monolíticas a microservicios, el diseño de APIs seguras con autenticación y autorización mediante JWT, y la implementación de pruebas unitarias e integrales. Mi enfoque se centró en la calidad del código, utilizando patrones de diseño, principios SOLID y una estructura de código limpia y bien documentada.",
+      "highlights": [
+        "Desarrollé y mantuve soluciones de backend utilizando C# y .NET, aplicando arquitectura limpia y microservicios.",
+        "Diseñé y desarrollé APIs REST robustas y seguras, implementando autenticación y autorización con JWT.",
+        "Migración de aplicaciones monolíticas a microservicios para mejorar la eficiencia y el rendimiento.",
+        "Uso de Entity Framework para acceso a bases de datos SQL, MySQL y SQLite.",
+        "Implementación de pruebas unitarias e integrales con Postman para la validación de APIs.",
+        "Aplicación de buenas prácticas de desarrollo, garantizando código limpio, escalable y bien documentado."
+      ],
+      "technologies": [
+        "backend/Csharp",
+        "backend/NetCore",
+        "testing/Postman",
+        "testing/Unit4",
+        "testing/SonarQube",
+        "databases/Mysql",
+        "databases/Sqlite",
+        "authentication/Jwt"
+      ]
     }
   ],
   "volunteer": [
@@ -133,7 +181,10 @@
       "startDate": "2023-12-01",
       "endDate": null,
       "score": "4.0",
-      "courses": ["AWS Cloud Machine Learning Essentials", "AWS Cloud Practitioner Essentials"]
+      "courses": [
+        "AWS Cloud Machine Learning Essentials",
+        "AWS Cloud Practitioner Essentials"
+      ]
     }
   ],
   "awards": [
@@ -161,249 +212,6 @@
       "summary": "Description…"
     }
   ],
-  "skills": [
-    {
-      "name": "HTML",
-      "level": "Master",
-      "domain": 100,
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "domain": 100,
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Avanzado",
-      "domain": 70,
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "domain": 70,
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "domain": 80,
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "C#",
-      "level": "Avanzado",
-      "domain": 70,
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "Microsoft",
-        "Servidor",
-        "API",
-        "MVC",
-        "Entity Framework",
-        "ASP.NET",
-        "Blazor",
-        "Razor",
-        ".NET"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "domain": 65,
-      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
-    },
-    {
-      "name": "Express",
-      "domain": 60,
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Backend", "Node.js", "Servidor"]
-    },
-    {
-      "name": "Jest",
-      "level": "Novato",
-      "domain": 45,
-      "keywords": ["Desarrollo Web", "Backend", "Node.js", "Testing"]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "domain": 75,
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
-    },
-    {
-      "name": "PostgreSQL",
-      "domain": 75,
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
-    },
-    {
-      "name": "MongoDB",
-      "level": "Novato",
-      "domain": 50,
-      "keywords": [
-        "Bases de Datos",
-        "NoSQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "domain": 80,
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "domain": 75,
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "domain": 80,
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "domain": 75,
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
-    },
-    {
-      "name": "DaisyUI",
-      "level": "Avanzado",
-      "domain": 70,
-      "keywords": ["Desarrollo Web", "Frontend", "TailwindCSS", "Componentes"]
-    },
-    {
-      "name": "Prisma",
-      "level": "Novato",
-      "domain": 40,
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "ORM",
-        "Base de Datos",
-        "Node.js"
-      ]
-    },
-    {
-      "name": "Rust",
-      "level": "Avanzado",
-      "domain": 60,
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "Lenguaje de Programación",
-        "Seguridad",
-        "Velocidad"
-      ]
-    },
-    {
-      "name": "Python",
-      "level": "Avanzado",
-      "domain": 70,
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "Lenguaje de Programación",
-        "Ciencia de Datos",
-        "Machine Learning",
-        "IA"
-      ]
-    },
-    {
-      "name": "Streamlit",
-      "level": "Avanzado",
-      "domain": 60,
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "Python",
-        "Data Science"
-      ]
-    },
-    {
-      "name": "Golang",
-      "level": "Novato",
-      "domain": 40,
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "Lenguaje de Programación",
-        "Velocidad",
-        "Seguridad"
-      ]
-    },
-    {
-      "name": "Docker",
-      "level": "Avanzado",
-      "domain": 60,
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "Contenedores",
-        "Infraestructura"
-      ]
-    },
-    {
-      "name": "Render",
-      "level": "Avanzado",
-      "domain": 65,
-      "keywords": ["Desarrollo Web", "Frontend", "Hosting", "Infraestructura"]
-    },
-    {
-      "name": "Vercel",
-      "level": "Avanzado",
-      "domain": 60,
-      "keywords": ["Desarrollo Web", "Frontend", "Hosting", "Infraestructura"]
-    },
-    {
-      "name": "Azure",
-      "level": "Novato",
-      "domain": 40,
-      "keywords": ["Desarrollo Web", "Backend", "Cloud", "Infraestructura"]
-    }
-  ],
-
   "skillsAuthentication": [
     {
       "name": "Seguridad",
@@ -616,7 +424,7 @@
       "name": "StorePcGaming",
       "isActive": true,
       "description": "Tienda de computadoras para gamers con un catálogo de productos y un carrito de compras",
-      "highlights": [
+      "skills": [
         "frontend/Ionic",
         "frontend/Css",
         "backend/Typescript",
@@ -637,7 +445,7 @@
       "name": "Certiblock",
       "isActive": true,
       "description": "Plataforma de certificación de documentos, imágenes, QR, NFTS en la blockchain de polygon",
-      "highlights": [
+      "skills": [
         "backend/Typescript",
         "backend/Javascript",
         "frontend/Reactjs",
@@ -658,7 +466,7 @@
       "name": "CodeBuildEducation",
       "isActive": true,
       "description": "Aplicación web para la enseñanza de programación con el propósito de aprendizaje de lenguajes de programación, con ejercicios y ejemplos de lenguajes de programación, además de contar con integración de inteligencia artificial para apoyar el aprendizaje.",
-      "highlights": [
+      "skills": [
         "backend/Python",
         "backend/Typescript",
         "backend/Nodejs",
@@ -686,7 +494,7 @@
       "name": "Core73",
       "isActive": true,
       "description": "Aplicación web para la enseñanza de métodos numéricos en la ingeniería y la ciencia, con calculadoras y manual de uso, graficar funciones y ecuaciones, etc.",
-      "highlights": [
+      "skills": [
         "backend/Python",
         "frameworks/Streamlit",
         "frontend/Html",
@@ -702,7 +510,7 @@
       "name": "JugueteriaJJJ",
       "isActive": true,
       "description": "Aplicación web para la gestión de una juguetería, con inventario, búsqueda de productos, Administración de inventarios (CRUD).",
-      "highlights": [
+      "skills": [
         "backend/Python",
         "frameworks/Streamlit",
         "frontend/Html",
@@ -715,7 +523,7 @@
     {
       "name": "StudentsApiFastApi ",
       "description": "Api creada para una conferencia de estudiantes de la universidad de San Buenaventura con el propósito de la enseñanza de FastApi y la creación de una Api Rest con Python",
-      "highlights": [
+      "skills": [
         "databases/Mysql",
         "backend/Python",
         "backend/Fastapi",
@@ -729,21 +537,21 @@
       "name": "Mental Space",
       "isActive": true,
       "description": "Landing page para la presentacion de servicios de psicología y psicoterapia.",
-      "highlights": ["frontend/Astro", "frontend/Tailwindcss"],
+      "skills": ["frontend/Astro", "frontend/Tailwindcss"],
       "url": "https://mental-space-landing.vercel.app/",
       "github": "https://github.com/hacksJuanDavid/MentalSpaceLanding"
     },
     {
       "name": "TeamsApp",
       "description": "Proyecto TeamsApp orientado a la creación de microservicios con responsabilidades únicas, diseñados para ofrecer servicios específicos.",
-      "highlights": ["backend/NetCore", "backend/Csharp", "authentication/Jwt"],
+      "skills": ["backend/NetCore", "backend/Csharp", "authentication/Jwt"],
       "url": null,
       "github": "https://github.com/hacksJuanDavid/TeamsApp"
     },
     {
       "name": "ClassificationPilotsInF1",
       "description": "Repositorio creado para colaborar en la construcción de un modelo de clasificación de pilotos de la Fórmula 1.",
-      "highlights": [
+      "skills": [
         "dataCience/Pandas",
         "dataCience/Numpy",
         "dataCience/Matplotlib",

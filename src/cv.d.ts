@@ -6,7 +6,6 @@ export interface CV {
   awards: Array<Awards>
   certificates: Array<Certificates>
   publications: Array<Publications>
-  skills: Array<Skills>
   skillsAuthentication: Array<SkillsAuthentication>
   skillsBackend: Array<SkillsBackend>
   skillsCloud: Array<SkillsCloud>
@@ -74,14 +73,6 @@ interface Volunter {
   summary: string
   highlights: Highlight
 }
-
-interface Skills {
-  name: string
-  level: string
-  domain: number
-  keywords: Array<string>
-}
-
 
 interface SkillsAuthentication {
   name: string
@@ -212,7 +203,7 @@ interface Projects {
   name: string
   isActive: boolean
   description: string
-  highlights: Highlight
+  skills: Array<string>
   url: string
   github?: string
 }
@@ -227,4 +218,3 @@ interface References {
   reference: string
 }
 
-type Highlight = Array<String>
