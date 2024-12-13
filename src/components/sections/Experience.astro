@@ -1,6 +1,6 @@
 ---
 import Section from "../Section.astro";
-
+import { Icon } from "astro-icon/components";
 import { work } from "@cv";
 ---
 
@@ -37,12 +37,14 @@ import { work } from "@cv";
 
                   <time>{years}</time>
                 </header>
-
                 <footer>
                   <p>{summary}</p>
                   <p>
-                    <strong>Tecnologías:</strong>
-                    {technologies.join(", ")}
+                    {technologies.map((technology) => (
+                      <span>
+                        <Icon size={30} name={`${technology}`} />
+                      </span>
+                    ))}
                   </p>
                 </footer>
               </article>

@@ -1,30 +1,291 @@
 ---
 import Section from "../Section.astro";
-import { skills } from "@cv";
+import { Icon } from "astro-icon/components";
+import { skillsAuthentication } from "@cv";
+import { skillsBackend } from "@cv";
+import { skillsCloud } from "@cv";
+import { skillsContainers } from "@cv";
+import { skillsControllVersions } from "@cv";
+import { skillsDataCience } from "@cv";
+import { skillsFrameworks } from "@cv";
+import { skillsFrontend } from "@cv";
+import { skillsIdes } from "@cv";
+import { skillsManagerOfPackages } from "@cv";
+import { skillsOperatingSystems } from "@cv";
+import { skillsTesting } from "@cv";
+import { skillsWeb3 } from "@cv";
 ---
 
 <Section title="Habilidades Tecnicas">
   <ul>
     {
-      skills.map(({ name, level, domain, keywords }) => (
+      // Authentication
+      skillsAuthentication.map(({ name, skills }) => (
         <li>
           <article>
             <header>
               <h3>{name}</h3>
-              <p>{level}</p>
             </header>
             <ul>
-              {keywords.map((keyword) => (
-                <li>{keyword}</li>
+              {skills.map((skill) => (
+                <li>
+                  <span>
+                    <Icon size={30} name={`${skill}`} />
+                  </span>
+                </li>
               ))}
             </ul>
+          </article>
+        </li>
+      ))
+    }
+    {
+      // Backend
+      skillsBackend.map(({ name, skills }) => (
+        <li>
+          <article>
+            <header>
+              <h3>{name}</h3>
+            </header>
             <ul>
-              <li>
-                <div class="domain-bar">
-                  <div class="domain" style={{ width: `${domain}%` }} />
-                </div>
-              </li>
-              <li class="percentage">{domain}%</li>
+              {skills.map((skill) => (
+                <li>
+                  <span>
+                    <Icon size={30} name={`${skill}`} />
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </article>
+        </li>
+      ))
+    }
+    {
+      // Cloud
+      skillsCloud.map(({ name, skills }) => (
+        <li>
+          <article>
+            <header>
+              <h3>{name}</h3>
+            </header>
+            <ul>
+              {skills.map((skill) => (
+                <li>
+                  <span>
+                    <Icon size={30} name={`${skill}`} />
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </article>
+        </li>
+      ))
+    }
+    {
+      // Containers
+      skillsContainers.map(({ name, skills }) => (
+        <li>
+          <article>
+            <header>
+              <h3>{name}</h3>
+            </header>
+            <ul>
+              {skills.map((skill) => (
+                <li>
+                  <span>
+                    <Icon size={30} name={`${skill}`} />
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </article>
+        </li>
+      ))
+    }
+    {
+      // Controll Versions
+      skillsControllVersions.map(({ name, skills }) => (
+        <li>
+          <article>
+            <header>
+              <h3>{name}</h3>
+            </header>
+            <ul>
+              {skills.map((skill) => (
+                <li>
+                  <span>
+                    <Icon size={30} name={`${skill}`} />
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </article>
+        </li>
+      ))
+    }
+    {
+      // Data Cience
+      skillsDataCience.map(({ name, skills }) => (
+        <li>
+          <article>
+            <header>
+              <h3>{name}</h3>
+            </header>
+            <ul>
+              {skills.map((skill) => (
+                <li>
+                  <span>
+                    <Icon size={30} name={`${skill}`} />
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </article>
+        </li>
+      ))
+    }
+    {
+      // Frameworks
+      skillsFrameworks.map(({ name, skills }) => (
+        <li>
+          <article>
+            <header>
+              <h3>{name}</h3>
+            </header>
+            <ul>
+              {skills.map((skill) => (
+                <li>
+                  <span>
+                    <Icon size={30} name={`${skill}`} />
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </article>
+        </li>
+      ))
+    }
+    {
+      // Frontend
+      skillsFrontend.map(({ name, skills }) => (
+        <li>
+          <article>
+            <header>
+              <h3>{name}</h3>
+            </header>
+            <ul>
+              {skills.map((skill) => (
+                <li>
+                  <span>
+                    <Icon size={30} name={`${skill}`} />
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </article>
+        </li>
+      ))
+    }
+    {
+      // Ides
+      skillsIdes.map(({ name, skills }) => (
+        <li>
+          <article>
+            <header>
+              <h3>{name}</h3>
+            </header>
+            <ul>
+              {skills.map((skill) => (
+                <li>
+                  <span>
+                    <Icon size={30} name={`${skill}`} />
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </article>
+        </li>
+      ))
+    }
+    {
+      // Manager Of Packages
+      skillsManagerOfPackages.map(({ name, skills }) => (
+        <li>
+          <article>
+            <header>
+              <h3>{name}</h3>
+            </header>
+            <ul>
+              {skills.map((skill) => (
+                <li>
+                  <span>
+                    <Icon size={30} name={`${skill}`} />
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </article>
+        </li>
+      ))
+    }
+    {
+      // Operating Systems
+      skillsOperatingSystems.map(({ name, skills }) => (
+        <li>
+          <article>
+            <header>
+              <h3>{name}</h3>
+            </header>
+            <ul>
+              {skills.map((skill) => (
+                <li>
+                  <span>
+                    <Icon size={30} name={`${skill}`} />
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </article>
+        </li>
+      ))
+    }
+    {
+      // Testing
+      skillsTesting.map(({ name, skills }) => (
+        <li>
+          <article>
+            <header>
+              <h3>{name}</h3>
+            </header>
+            <ul>
+              {skills.map((skill) => (
+                <li>
+                  <span>
+                    <Icon size={30} name={`${skill}`} />
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </article>
+        </li>
+      ))
+    }
+    {
+      // Web3
+      skillsWeb3.map(({ name, skills }) => (
+        <li>
+          <article>
+            <header>
+              <h3>{name}</h3>
+            </header>
+            <ul>
+              {skills.map((skill) => (
+                <li>
+                  <span>
+                    <Icon size={30} name={`${skill}`} />
+                  </span>
+                </li>
+              ))}
             </ul>
           </article>
         </li>
@@ -57,7 +318,7 @@ import { skills } from "@cv";
 
   article ul {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(6, 1fr);
     gap: 8px; /* Ajusta el espacio entre los elementos */
     color: #453f3f;
     padding: 1rem;
@@ -76,7 +337,7 @@ import { skills } from "@cv";
 
   ul {
     display: grid;
-    grid-template-columns: repeat(2, minmax(200px, 1fr));
+    grid-template-columns: repeat(1, minmax(200px, 1fr));
     gap: 1rem;
     margin-inline: -16px;
   }

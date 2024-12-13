@@ -1,8 +1,8 @@
 ---
-import GitHub from "@/icons/GitHub.astro"
-import Section from "../Section.astro"
-
-import { projects } from "@cv"
+import GitHub from "@/icons/GitHub.astro";
+import Section from "../Section.astro";
+import { Icon } from "astro-icon/components";
+import { projects } from "@cv";
 ---
 
 <Section title="Proyectos">
@@ -33,13 +33,15 @@ import { projects } from "@cv"
                   <p>{description}</p>
                 </header>
                 <footer>
-                  {highlights.map((highlight) => {
-                    return <span>{highlight}</span>
-                  })}
+                  {highlights.map((highlight) => (
+                    <span>
+                      <Icon size={24} name={`${highlight}`} />
+                    </span>
+                  ))}
                 </footer>
               </article>
             </li>
-          )
+          );
         }
       )
     }
