@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Juan David Jiménez",
-    "label": "Full Stack Developer con más de 5 años de experiencia",
-    "image": "/me.webp",
-    "email": "josuacoty@gmail.com",
-    "phone": "+1 (201) 361-2656",
-    "url": "https://blogwebjuan.onrender.com/",
-    "summary": "+5 años de experiencia como Desarrollador Full Stack con diferentes propósitos como Web Apps, Móviles, Web3, Blockchain, AI, Backend, Frontend, en la participación de la realización de proyectos a empresas como sus arquitecturas, gestión de mejores prácticas a la hora del desarrollo, versatilidad en la creación de Apps, soluciones a problemas lógicos y eficiencia.",
+    "label": "Ingeniero de Sistemas y Full Stack Developer",
+    "image": "/profile.webp",
+    "email": "jdjimeneza1@correo.usbcali.edu.co",
+    "phone": "+57 3178178423",
+    "url": "",
+    "summary": "Más de 5 años de experiencia como Ingeniero de Sistemas y Desarrollador Full Stack, con un enfoque integral en el desarrollo de aplicaciones web, aplicaciones móviles, tecnologías Web3, aprendizaje automático, aprendizaje profundo, inteligencia artificial, procesamiento de lenguaje natural, ciencia de datos, backend y frontend. Especializado en la creación de soluciones adaptadas a las necesidades de los clientes, aplicando buenas prácticas de desarrollo, como arquitecturas escalables, mantenibles y orientadas al rendimiento. Experiencia en el uso de patrones de diseño como C4, 4+1 y UML, con un enfoque en la escritura de código de alta calidad. Amplia experiencia en la implementación de pruebas unitarias para garantizar la fiabilidad del software, así como en el uso de principios de programación orientada a objetos (POO) y programación funcional, aplicando los principios SOLID.",
     "location": {
       "address": "",
       "postalCode": "7100",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "hacksJuanDavid",
-        "url": "https://linkedin.com/in/hacksJuanDavid"
+        "username": "Juan David Jiménez",
+        "url": "https://www.linkedin.com/in/juan-david-jimenez-7768a2222/"
       },
       {
         "network": "X",
@@ -38,18 +38,19 @@
       "position": "Full Stack Developer",
       "url": "https://store-pc-gaming-front-end.vercel.app/",
       "startDate": "2024-01-12",
-      "endDate": null,
-      "summary": "Lidero la creación del desarrollo web sobre el Backend como el Frontend de la Web App & Móvil, supervisó los ciclos de creación y envió a Deploy de lo desarrollado, colaboro activamente en la realización de tareas de desarrollo. Aporto con feedback o sugerencias en el proyecto.",
+      "endDate": "2024-06-12",
+      "summary": "LParticipé activamente en el desarrollo integral de aplicaciones web y móviles, asumiendo la responsabilidad tanto del Backend como del Frontend. Supervisé los ciclos completos de desarrollo, desde la concepción hasta el despliegue final, garantizando la entrega de soluciones funcionales y de alta calidad. Mi rol incluyó la supervisión de las tareas asignadas al equipo de desarrollo, la coordinación de entregas y la participación directa en la implementación de funcionalidades clave. Además, brindé retroalimentación constructiva y sugerencias técnicas para optimizar el rendimiento, la escalabilidad y la calidad del proyecto.",
       "highlights": ["Started the company"],
       "technologies": [
-        "Ionic",
-        "CSS",
-        "Typescript",
-        "React",
-        "NodeJs",
-        "ExpressJs",
-        "Prisma",
-        "PostgreSQL"
+        "frontend/Ionic",
+        "frontend/Css",
+        "backend/Typescript",
+        "frontend/Reactjs",
+        "backend/Nodejs",
+        "backend/Prisma",
+        "databases/Postgresql",
+        "backend/Expressjs",
+        "authentication/Jwt"
       ]
     },
     {
@@ -58,21 +59,19 @@
       "url": "https://certiblock.co/login?redirect=%2F",
       "startDate": "2022-09-01",
       "endDate": "2023-12-01",
-      "summary": "Colabore en la creación del Frontend de Certiblock como en la arquitectura y la toma de decisión de que tecnología era mejor para usarse en términos de rendimiento, escalabilidad y procesamiento, también aporte contribuciones en la creación del Backend de certiblock aportando ideas como solucionando problemas de cloud y baches de procesamiento a escala mayores como en el rendimiento de la Blockchain y la compatibilidad con la carga para que fuese consumida esa Data por el Frontend, trabaje colaborativamente con equipos de diferentes países como de Spain & Mexico en integrar el trabajo para obtener resultados para los usuarios.",
+      "summary": "Colaboré en la creación y desarrollo del Frontend de Certiblock, donde participé en la definición de la arquitectura y en la toma de decisiones tecnológicas, siempre con el objetivo de optimizar el rendimiento, la escalabilidad y la eficiencia del procesamiento. Mi contribución se extendió también al Backend, donde propuse y ejecuté soluciones que mejoraron la capacidad de procesamiento en entornos de alta demanda. Esto incluyó la resolución de cuellos de botella relacionados con la escalabilidad de la Blockchain y la compatibilidad de la carga de datos para su consumo efectivo por parte del Frontend. Trabajé de forma colaborativa con equipos multidisciplinarios de diferentes países, incluidos España y México, para integrar el trabajo de forma eficiente y lograr resultados tangibles para los usuarios finales. Esta colaboración internacional me permitió desarrollar habilidades de comunicación y adaptación, asegurando que los objetivos del proyecto se cumplieran dentro de los plazos establecidos y con los estándares de calidad requeridos.",
       "highlights": ["Started the company"],
       "technologies": [
-        "TypeScript",
-        "NextJs",
-        "NodeJs",
-        "AdonisJs",
-        "Api's",
-        "MariaDb",
-        "Blockchain",
-        "Polygon",
-        "Web3",
-        "React",
-        "Tailwindcss",
-        "DaisyUI"
+        "backend/Typescript",
+        "frontend/Nextjs",
+        "backend/Nodejs",
+        "backend/Adonisjs",
+        "databases/Mariadb",
+        "web3/Polygon",
+        "frontend/Reactjs",
+        "frontend/Tailwindcss",
+        "frontend/Daisyui",
+        "authentication/Jwt"
       ]
     }
   ],
@@ -91,7 +90,7 @@
     {
       "institution": "Universidad de San Buenaventura",
       "url": "https://usbcali.edu.co/",
-      "area": "Ingeniero de Software",
+      "area": "Ingeniero de Sistemas",
       "studyType": "Educación universitaria profesional",
       "startDate": "2019-12-01",
       "endDate": null,
@@ -101,7 +100,7 @@
     {
       "institution": "Platzi",
       "url": "https://platzi.com/p/thenowrock/",
-      "area": "Ingeniero de Software",
+      "area": "Ingenieria de Sistemas",
       "studyType": "Estudio en línea autónomo para el desarrollo de habilidades en el desarrollo de software y tecnologías emergentes.",
       "startDate": "2021-12-01",
       "endDate": null,
@@ -125,6 +124,16 @@
         "Curso Práctico de Frontend Developer",
         "Curso Práctico de JavaScript"
       ]
+    },
+    {
+      "institution": "Aws Academy",
+      "url": "https://aws.amazon.com/es/learn/",
+      "area": "Ingenieria de Sistemas",
+      "studyType": "Educación en línea sobre tecnologías de la nube de Amazon Web Services.",
+      "startDate": "2023-12-01",
+      "endDate": null,
+      "score": "4.0",
+      "courses": ["AWS Cloud Machine Learning Essentials", "AWS Cloud Practitioner Essentials"]
     }
   ],
   "awards": [
@@ -394,6 +403,192 @@
       "keywords": ["Desarrollo Web", "Backend", "Cloud", "Infraestructura"]
     }
   ],
+
+  "skillsAuthentication": [
+    {
+      "name": "Seguridad",
+      "skills": [
+        "authentication/Jwt",
+        "authentication/Auth0",
+        "authentication/Cryptography"
+      ]
+    }
+  ],
+  "skillsBackend": [
+    {
+      "name": "Backend",
+      "skills": [
+        "backend/Adonisjs",
+        "backend/Bash",
+        "backend/Cplusplus",
+        "backend/Csharp",
+        "backend/Djangorest",
+        "backend/Expressjs",
+        "backend/Fastapi",
+        "backend/Go",
+        "backend/Java",
+        "backend/Javascript",
+        "backend/Nestjs",
+        "backend/NetCore",
+        "backend/Nodejs",
+        "backend/Prisma",
+        "backend/Python",
+        "backend/Rust",
+        "backend/SqlAlchemy",
+        "backend/Typescript"
+      ]
+    }
+  ],
+  "skillsCloud": [
+    {
+      "name": "Servicios en la Nube",
+      "skills": [
+        "cloud/Aws",
+        "cloud/Azure",
+        "cloud/GoogleCloud",
+        "cloud/Vercel",
+        "cloud/Render",
+        "cloud/Heroku",
+        "cloud/Railway"
+      ]
+    }
+  ],
+  "skillsContainers": [
+    {
+      "name": "Contenedores",
+      "skills": ["containers/Docker", "containers/Kubernetes"]
+    }
+  ],
+  "skillsControllVersions": [
+    {
+      "name": "Control de versiones",
+      "skills": [
+        "controllVersions/Git",
+        "controllVersions/Github",
+        "controllVersions/Gitlab",
+        "controllVersions/Bitbucket"
+      ]
+    }
+  ],
+  "skillsDatabases": [
+    {
+      "name": "Bases de datos",
+      "skills": [
+        "databases/Firebase",
+        "databases/Mariadb",
+        "databases/MicrosoftSQLServer",
+        "databases/Mongodb",
+        "databases/Mysql",
+        "databases/Postgresql",
+        "databases/Redis",
+        "databases/SqLite"
+      ]
+    }
+  ],
+  "skillsDataCience": [
+    {
+      "name": "Ciencia de datos",
+      "skills": [
+        "dataCience/Jupyter",
+        "dataCience/Kaggle",
+        "dataCience/Keras",
+        "dataCience/Matplotlib",
+        "dataCience/Numpy",
+        "dataCience/Pandas",
+        "dataCience/Ploty",
+        "dataCience/PyTorch",
+        "dataCience/ScikitLearn",
+        "dataCience/TensorFlow"
+      ]
+    }
+  ],
+  "skillsFrameworks": [
+    {
+      "name": "Frameworks",
+      "skills": ["frameworks/Django", "frameworks/Streamlit"]
+    }
+  ],
+  "skillsFrontend": [
+    {
+      "name": "Frontend",
+      "skills": [
+        "frontend/Angularjs",
+        "frontend/Astro",
+        "frontend/Babel",
+        "frontend/Boostrap",
+        "frontend/Css",
+        "frontend/Daisyui",
+        "frontend/Html",
+        "frontend/Ionic",
+        "frontend/MaterialUI",
+        "frontend/Nextjs",
+        "frontend/ReactBoostrap",
+        "frontend/Reactjs",
+        "frontend/Redux",
+        "frontend/Tailwindcss",
+        "frontend/Threejs",
+        "frontend/Vitejs",
+        "frontend/Vuejs",
+        "frontend/Zustand"
+      ]
+    }
+  ],
+  "skillsIdes": [
+    {
+      "name": "Entornos de desarrollo",
+      "skills": [
+        "ides/Golang",
+        "ides/IntelliJIDEA",
+        "ides/Pycharm",
+        "ides/Rider",
+        "ides/VisualStudio",
+        "ides/Vscode"
+      ]
+    }
+  ],
+  "skillsManagerOfPackages": [
+    {
+      "name": "Manejadores de paquetes",
+      "skills": [
+        "managerOfPackages/Npm",
+        "managerOfPackages/Nuget",
+        "managerOfPackages/Pip",
+        "managerOfPackages/Yarn"
+      ]
+    }
+  ],
+  "skillsOperatingSystems": [
+    {
+      "name": "Sistemas operativos",
+      "skills": [
+        "operatingSystems/Debian",
+        "operatingSystems/Linux",
+        "operatingSystems/Ubuntu",
+        "operatingSystems/Windows"
+      ]
+    }
+  ],
+  "skillsTesting": [
+    {
+      "name": "Pruebas",
+      "skills": [
+        "testing/Cucumber",
+        "testing/Insomnia",
+        "testing/Jest",
+        "testing/Postman",
+        "testing/Pytest",
+        "testing/Selenium",
+        "testing/SonarQube",
+        "testing/Unit4"
+      ]
+    }
+  ],
+  "skillsWeb3": [
+    {
+      "name": "Web3",
+      "skills": ["web3/Polygon"]
+    }
+  ],
   "languages": [
     {
       "language": "Spanish",
@@ -422,16 +617,18 @@
       "isActive": true,
       "description": "Tienda de computadoras para gamers con un catálogo de productos y un carrito de compras",
       "highlights": [
-        "Tienda",
-        "Ionic",
-        "CSS",
-        "Typescript",
-        "React",
-        "NodeJs",
-        "ExpressJs",
-        "Prisma",
-        "PostgreSQL",
-        "En desarrollo"
+        "frontend/Ionic",
+        "frontend/Css",
+        "backend/Typescript",
+        "frontend/Reactjs",
+        "backend/Nodejs",
+        "backend/Expressjs",
+        "backend/Prisma",
+        "databases/Postgresql",
+        "testing/Jest",
+        "authentication/Jwt",
+        "cloud/Vercel",
+        "cloud/Render"
       ],
       "url": "https://store-pc-gaming-front-end.vercel.app/",
       "github": null
@@ -441,33 +638,48 @@
       "isActive": true,
       "description": "Plataforma de certificación de documentos, imágenes, QR, NFTS en la blockchain de polygon",
       "highlights": [
-        "+100 de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript",
-        "NextJs",
-        "NodeJs",
-        "AdonisJs",
-        "Api's",
-        "MariaDb",
-        "En desarrollo"
+        "backend/Typescript",
+        "backend/Javascript",
+        "frontend/Reactjs",
+        "frontend/Tailwindcss",
+        "frontend/Daisyui",
+        "frontend/Nextjs",
+        "backend/Adonisjs",
+        "backend/Nodejs",
+        "web3/Polygon",
+        "databases/Mariadb",
+        "testing/Jest",
+        "authentication/Jwt"
       ],
       "url": "https://certiblock.co/login?redirect=%2F",
       "github": null
     },
     {
-      "name": "BlogWebJuan",
+      "name": "CodeBuildEducation",
       "isActive": true,
-      "description": "Blog de prestación de servicios de desarrollo web",
+      "description": "Aplicación web para la enseñanza de programación con el propósito de aprendizaje de lenguajes de programación, con ejercicios y ejemplos de lenguajes de programación, además de contar con integración de inteligencia artificial para apoyar el aprendizaje.",
       "highlights": [
-        "+10 vistas",
-        "Rust",
-        "PostgreSQL",
-        "ActixWeb",
-        "WebAssembly",
-        "Template Engines",
-        "En desarrollo"
+        "backend/Python",
+        "backend/Typescript",
+        "backend/Nodejs",
+        "backend/Expressjs",
+        "backend/Prisma",
+        "backend/Fastapi",
+        "authentication/Jwt",
+        "containers/Docker",
+        "frontend/Nextjs",
+        "frontend/Reactjs",
+        "frontend/Tailwindcss",
+        "frontend/Daisyui",
+        "frontend/Html",
+        "databases/Mongodb",
+        "testing/Pytest",
+        "testing/Jest",
+        "testing/Postman",
+        "cloud/Vercel",
+        "cloud/Railway"
       ],
-      "url": "https://blogwebjuan.onrender.com/",
+      "url": "https://code-build-education-front-end.vercel.app/en",
       "github": null
     },
     {
@@ -475,50 +687,71 @@
       "isActive": true,
       "description": "Aplicación web para la enseñanza de métodos numéricos en la ingeniería y la ciencia, con calculadoras y manual de uso, graficar funciones y ecuaciones, etc.",
       "highlights": [
-        "Matematicas",
-        "Ciencias de la computación",
-        "Ciencia de datos",
-        "Metodos numericos",
-        "Aprendizaje",
-        "Proyecto de universidad",
-        "Python",
-        "Streamlit",
-        "En producción"
+        "backend/Python",
+        "frameworks/Streamlit",
+        "frontend/Html",
+        "frontend/Css",
+        "dataCience/Ploty",
+        "dataCience/Numpy",
+        "dataCience/Pandas"
       ],
-      "url": "https://hacksjuandavid-metodos-numericos-main-sokht2.streamlit.app/"
+      "url": "https://hacksjuandavid-metodos-numericos-main-sokht2.streamlit.app/",
+      "github": "https://github.com/hacksJuanDavid/MetodosNumericos.git"
     },
     {
       "name": "JugueteriaJJJ",
       "isActive": true,
       "description": "Aplicación web para la gestión de una juguetería, con inventario, búsqueda de productos, Administración de inventarios (CRUD).",
       "highlights": [
-        "Tienda",
-        "Proyecto de universidad",
-        "Python",
-        "Streamlit",
-        "MongoDB",
-        "Html5",
-        "CSS",
-        "En producción"
+        "backend/Python",
+        "frameworks/Streamlit",
+        "frontend/Html",
+        "frontend/Css",
+        "dataCience/Pandas"
       ],
       "url": "https://hacksjuandavid-jugueteriajjj-app-0xbplf.streamlit.app/",
-      "github": null
+      "github": "https://github.com/hacksJuanDavid/JugueteriaJJJ.git"
     },
     {
       "name": "StudentsApiFastApi ",
       "description": "Api creada para una conferencia de estudiantes de la universidad de San Buenaventura con el propósito de la enseñanza de FastApi y la creación de una Api Rest con Python",
       "highlights": [
-        "Api",
-        "Python",
-        "PyTest",
-        "Entorno de desarrollo",
-        "FastApi",
-        "MySql",
-        "Repositorio",
-        "Open Source"
+        "databases/Mysql",
+        "backend/Python",
+        "backend/Fastapi",
+        "backend/SqlAlchemy",
+        "testing/Pytest"
       ],
       "url": null,
       "github": "https://github.com/hacksJuanDavid/StudentsApiFastApi"
+    },
+    {
+      "name": "Mental Space",
+      "isActive": true,
+      "description": "Landing page para la presentacion de servicios de psicología y psicoterapia.",
+      "highlights": ["frontend/Astro", "frontend/Tailwindcss"],
+      "url": "https://mental-space-landing.vercel.app/",
+      "github": "https://github.com/hacksJuanDavid/MentalSpaceLanding"
+    },
+    {
+      "name": "TeamsApp",
+      "description": "Proyecto TeamsApp orientado a la creación de microservicios con responsabilidades únicas, diseñados para ofrecer servicios específicos.",
+      "highlights": ["backend/NetCore", "backend/Csharp", "authentication/Jwt"],
+      "url": null,
+      "github": "https://github.com/hacksJuanDavid/TeamsApp"
+    },
+    {
+      "name": "ClassificationPilotsInF1",
+      "description": "Repositorio creado para colaborar en la construcción de un modelo de clasificación de pilotos de la Fórmula 1.",
+      "highlights": [
+        "dataCience/Pandas",
+        "dataCience/Numpy",
+        "dataCience/Matplotlib",
+        "dataCience/ScikitLearn",
+        "dataCience/Kaggle"
+      ],
+      "url": null,
+      "github": "https://github.com/hacksJuanDavid/ClassificationPilotsInF1"
     }
   ]
 }

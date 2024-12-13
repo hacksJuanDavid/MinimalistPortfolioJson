@@ -7,6 +7,19 @@ export interface CV {
   certificates: Array<Certificates>
   publications: Array<Publications>
   skills: Array<Skills>
+  skillsAuthentication: Array<SkillsAuthentication>
+  skillsBackend: Array<SkillsBackend>
+  skillsCloud: Array<SkillsCloud>
+  skillsContainers: Array<SkillsContainers>
+  skillsControllVersions: Array<SkillsControllVersions>
+  skillsDataCience: Array<SkillsDataCience>
+  skillsFrameworks: Array<SkillsFrameworks>
+  skillsFrontend: Array<SkillsFrontend>
+  skillsIdes: Array<SkillsIdes>
+  skillsManagerOfPackages: Array<SkillsManagerOfPackages>
+  skillsOperatingSystems: Array<SkillsOperatingSystems>
+  skillsTesting: Array<SkillsTesting>
+  skillsWeb3: Array<SkillsWeb3>
   languages: Array<Languages>
   interests: Array<Interests>
   references: Array<References>
@@ -67,6 +80,76 @@ interface Skills {
   level: string
   domain: number
   keywords: Array<string>
+}
+
+
+interface SkillsAuthentication {
+  name: string
+  skills: Array<string>
+}
+
+interface SkillsBackend {
+  name: string
+  skills: Array<string>
+}
+
+interface SkillsCloud {
+  name: string
+  skills: Array<string>
+}
+
+interface SkillsContainers {
+  name: string
+  skills: Array<string>
+}
+
+interface SkillsControllVersions {
+  name: string
+  skills: Array<string>
+}
+
+interface SkillsDatabases {
+  name: string
+  skills: Array<string>
+}
+
+interface SkillsDataCience {
+  name: string
+  skills: Array<string>
+}
+
+interface SkillsFrameworks {
+  name: string
+  skills: Array<string>
+}
+interface SkillsFrontend {
+  name: string
+  skills: Array<string>
+}
+
+interface SkillsIdes {
+  name: string
+  skills: Array<string>
+}
+
+interface SkillsManagerOfPackages {
+  name: string
+  skills: Array<string>
+}
+
+interface SkillsOperatingSystems {
+  name: string
+  skills: Array<string>
+}
+
+interface SkillsTesting {
+  name: string
+  skills: Array<string>
+}
+
+interface SkillsWeb3 {
+  name: string
+  skills: Array<string>
 }
 
 interface Awards {
